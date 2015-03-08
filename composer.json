@@ -1,0 +1,21 @@
+{
+    "name": "k1low/breadcrumb",
+    "description": "Breadcrumb plugin for CakePHP",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "breadcrumb"],
+    "homepage": "https://github.com/k1LoW/Breadcrumb",
+    "license": "MIT",
+    "authors": [
+	    {
+	        "name": "Ken'ichiro Oyama",
+	        "homepage": "https://github.com/k1LoW",
+	        "role": "Author"
+	    }
+    ],
+    "require": {
+        "composer/installers": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
