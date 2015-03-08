@@ -20,10 +20,10 @@ class BreadcrumbComponent extends Component
     }
 
     /**
-     * addCrumb
+     * append
      *
      */
-    public function addCrumb($title, $url = null){
+    public function append($title, $url = null){
         $this->breadcrumb[] = array(
             $title => $url
         );
